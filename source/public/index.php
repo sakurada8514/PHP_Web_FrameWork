@@ -1,2 +1,3 @@
 <?php
-echo 'ttt';
+require_once '../bootstrap.php';
+$project->run();

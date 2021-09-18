@@ -1,10 +1,10 @@
 <?php
 
-namespace Config;
+namespace TaskApp;
 
 use Libs\Application;
 
-class ConfigApplication implements Application
+class TaskApplication implements Application
 {
     public function ready()
     {
